@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am dexvirxx on github.
+  * I am dexvirxx (https://keybase.io/dexvirxx) on keybase.
+  * I have a public key ASC_67E-FCsBJQRKelewNoyoskZjzCd6C8UT6bCUPPhJ5go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bfebb13e142b0125044a7a57b0368ca8b24663cc277a0bc513e9b0943cf849e60a",
+      "host": "keybase.io",
+      "kid": "0120bfebb13e142b0125044a7a57b0368ca8b24663cc277a0bc513e9b0943cf849e60a",
+      "uid": "2248cac8ac28fd72dbd608c89f589919",
+      "username": "dexvirxx"
+    },
+    "merkle_root": {
+      "ctime": 1588327951,
+      "hash": "99f08f5693961c390273eb9ecc1124874e613b52b7068854a8621f17a1dee90a2d4fd32aebbec7dca2d84c429ca8aa62d8f7aada82f5639503d0549ecc535f98",
+      "hash_meta": "a3e7b5b52e25a1903c7334856893205d870cda5f6f1da92f1ded5fb32657711c",
+      "seqno": 16119417
+    },
+    "service": {
+      "entropy": "Nry7RMgzR861RGglP4Nri0L9",
+      "name": "github",
+      "username": "dexvirxx"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.1"
+  },
+  "ctime": 1588328097,
+  "expire_in": 504576000,
+  "prev": "a38a0ba062cb4615408134f67408d99d3c9607db3d7aaef5b03c48eee7d3f8e3",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASC_67E-FCsBJQRKelewNoyoskZjzCd6C8UT6bCUPPhJ5go](https://keybase.io/dexvirxx), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgv+uxPhQrASUESnpXsDaMqLJGY8wnegvFE+mwlDz4SeYKp3BheWxvYWTESpcCCMQgo4oLoGLLRhVAgTT2dAjZnTyWB9s9eq71sDxI7ufT+OPEIL0pa/moK0XXvRkzxrxSen7P5NsWn4/D/cG9W04u1iHxAgHCo3NpZ8RAAfWMRJu4fgkz0XFbsr+DNIhKcCWXimybKGo12l1j/ytq4sHnmp8CG8R6eWADiMuDSZ2BovvzAm8e9EjtcMnkBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIESSFN69h1pCwIauBtCC89fIm8IvJYXmWYFr4BX7EBQbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/dexvirxx
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id dexvirxx
+```
